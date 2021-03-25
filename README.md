@@ -1,4 +1,8 @@
-👋 Hi, I’m @lahancock, Software Engineer
+👋 Hi, I’m @lahancock
+
+
+Software Engineer
+
 
 linkedin.com/in/lrhancock
 laureh.dev@gmail.com
