@@ -4,8 +4,7 @@
 Software Engineer
 
 
-linkedin.com/in/lrhancock
-laureh.dev@gmail.com
+linkedin.com/in/lrhancock | laureh.dev@gmail.com
 
 ㅡ
 Skills
