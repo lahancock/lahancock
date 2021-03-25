@@ -10,7 +10,8 @@ Skills
 Java, Python, XML, Linux, Git, Hibernate
 Also familiar with: Postgres, C, AWS, PHP, Javascript
 Understands and adheres to project schedules. Strong analytical and communication skills. Comfortable with Agile processes.
-	ㅡ
+
+ㅡ
 Experience
 	  
 
@@ -30,7 +31,8 @@ May 2020 -October 2020 |  Winter Park, Florida
 - Integrate data from various back-end services and databases
 - Maintain, expand, and scale company website
 - Cooperate with designers to match visual design intent
-	ㅡ
+
+ㅡ
 Education
 	  
 
