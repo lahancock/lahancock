@@ -9,6 +9,7 @@ linkedin.com/in/lrhancock | laureh.dev@gmail.com
 
 Java, Python, XML, Linux, Git, Hibernate
 Also familiar with: Postgres, C, AWS, PHP, Javascript
+
 Passionate for developing and implementing process improvements through communication and automation. Strong analytical and communication skills. Comfortable with Agile processes.
 
 
